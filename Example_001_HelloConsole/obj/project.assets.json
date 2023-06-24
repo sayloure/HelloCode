@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saylo\\Desktop\\учеба\\gb\\3. Знакомство с языком программирования C#\\lessons\\1\\examples\\Example_001_HelloConsole\\Example_001_HelloConsole.csproj",
+      "projectUniqueName": "c:\\Users\\saylo\\Desktop\\учеба\\gb\\3. Знакомство с языком программирования C#\\lessons\\1\\examples\\Example_001_HelloConsole\\Example_001_HelloConsole.csproj",
       "projectName": "Example_001_HelloConsole",
-      "projectPath": "C:\\Users\\saylo\\Desktop\\учеба\\gb\\3. Знакомство с языком программирования C#\\lessons\\1\\examples\\Example_001_HelloConsole\\Example_001_HelloConsole.csproj",
+      "projectPath": "c:\\Users\\saylo\\Desktop\\учеба\\gb\\3. Знакомство с языком программирования C#\\lessons\\1\\examples\\Example_001_HelloConsole\\Example_001_HelloConsole.csproj",
       "packagesPath": "C:\\Users\\saylo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saylo\\Desktop\\учеба\\gb\\3. Знакомство с языком программирования C#\\lessons\\1\\examples\\Example_001_HelloConsole\\obj\\",
+      "outputPath": "c:\\Users\\saylo\\Desktop\\учеба\\gb\\3. Знакомство с языком программирования C#\\lessons\\1\\examples\\Example_001_HelloConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saylo\\AppData\\Roaming\\NuGet\\NuGet.Config"
