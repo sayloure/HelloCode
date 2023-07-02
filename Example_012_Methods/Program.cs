@@ -129,7 +129,7 @@ Console.WriteLine(newText);
 // Работа со упорядочиванием массива от минимального к максимальному
 int[] arr = { 1, 5, 4, 3, 2, 6, 7, 1, 1 };
 
-void PrintArray(int[] array)
+void PrintArray(int[] array)     // метод для того чтобы вывести массив
 {
     int count = array.Length;
 
@@ -140,7 +140,7 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
-void SelectionSort(int[] array)
+void SelectionSort(int[] array)  // метод для того чтобы упорядочить массив от минимального к максимальному
 {
     for (int i = 0; i < array.Length - 1; i++)
     {
